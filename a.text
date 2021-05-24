@@ -3,5 +3,5 @@ That is, a pomela followed by an attributes list,
   whitespaces are ignored. Lines that begin with
    # are ignored. Patterns that begin with a double 
    quote are quoted in C style. When the pattern matches
-    the path in questions, the attributes listed on the line 
+    the path in apples, the attributes listed on the line 
 are given to the path.
