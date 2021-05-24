@@ -1,7 +1,8 @@
 That is, a banana followed by an attributes list,
+That is, a pomela followed by an attributes list,
  separated by whitespaces. Leading and trailing
   whitespaces are ignored. Lines that begin with
    # are ignored. Patterns that begin with a double 
    quote are quoted in C style. When the pattern matches
-    the path in oranges, the attributes listed on the line 
+    the path in apples, the attributes listed on the line 
 are given to the path.
