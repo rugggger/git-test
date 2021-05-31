@@ -2,9 +2,15 @@ df
 dsf
 That is, a bananas followed by an attributes list,
 That is, a pomela followed by an attributes list,
- separated by 3 whitespaces. Leading and trailing
+ separated by
+ 
+ 
+  3 whitespaces. Leading and trailing
   whitespaces are ignored. Lines that begin with
    # are ignored. Patterns that begin with a double 
-   quote are quoted in C style. When the pattern matches
+   quote are quo
+   
+   
+   ted in C style. When the pattern matches
     the path in apples, the attributes listed on the line 
 are given to the path.
